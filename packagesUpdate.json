@@ -1,0 +1,45 @@
+{
+	"Packages": [
+		{
+			"IdPackage": "UCP2019",
+			"Version": "",
+			"Build": ""
+		}, {
+			"IdPackage": "US2019",
+			"Version": "",
+			"Build": ""
+		}, {
+			"IdPackage": "USS2019",
+			"Version": "",
+			"Build": ""
+		}, {
+			"IdPackage": "UHA2019",
+			"Version": "",
+			"Build": ""
+		}, {
+			"IdPackage": "UDM2019",
+			"Version": "",
+			"Build": ""
+		},{
+			"IdPackage": "UDG2020",
+			"Version": "",
+			"Build": ""
+		},{
+			"IdPackage": "UPS2020",
+			"Version": "",
+			"Build": ""
+		},{
+			"IdPackage": "VAS2021",
+			"Version": "",
+			"Build": ""
+		},{
+			"IdPackage": "UTE2021",
+			"Version": "",
+			"Build": ""
+		},{
+			"IdPackage": "UCP2021",
+			"Version": "",
+			"Build": ""
+		}
+	]
+}
