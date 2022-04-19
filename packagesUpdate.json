@@ -2,44 +2,54 @@
 	"Packages": [
 		{
 			"IdPackage": "UCP2019",
-			"Version": "",
-			"Build": ""
+			"Version": "4.0",
+			"Build": "20221010",
+			"PackageUrl": "https://github.com/patoaesteve/borrar/blob/main/UnlimitechCapacityPlanning.mtc?raw=true"
 		}, {
 			"IdPackage": "US2019",
 			"Version": "",
-			"Build": ""
+			"Build": "",
+			"PackageUrl": ""
 		}, {
 			"IdPackage": "USS2019",
 			"Version": "",
-			"Build": ""
+			"Build": "",
+			"PackageUrl": ""
 		}, {
 			"IdPackage": "UHA2019",
 			"Version": "",
-			"Build": ""
+			"Build": "",
+			"PackageUrl": ""
 		}, {
 			"IdPackage": "UDM2019",
 			"Version": "",
-			"Build": ""
+			"Build": "",
+			"PackageUrl": ""
 		},{
 			"IdPackage": "UDG2020",
 			"Version": "",
-			"Build": ""
+			"Build": "",
+			"PackageUrl": ""
 		},{
 			"IdPackage": "UPS2020",
 			"Version": "",
-			"Build": ""
+			"Build": "",
+			"PackageUrl": ""
 		},{
 			"IdPackage": "VAS2021",
 			"Version": "",
-			"Build": ""
+			"Build": "",
+			"PackageUrl": ""
 		},{
 			"IdPackage": "UTE2021",
 			"Version": "",
-			"Build": ""
+			"Build": "",
+			"PackageUrl": ""
 		},{
 			"IdPackage": "UCP2021",
 			"Version": "",
-			"Build": ""
+			"Build": "",
+			"PackageUrl": ""
 		}
 	]
 }
