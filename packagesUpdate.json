@@ -2,14 +2,14 @@
 	"Packages": [
 		{
 			"IdPackage": "UCP2019",
-			"Version": "4.0",
-			"Build": "20221010",
+			"Version": "3.0",
+			"Build": "20220420",
 			"PackageUrl": "https://github.com/patoaesteve/borrar/blob/main/UnlimitechCapacityPlanning.mtc?raw=true"
 		}, {
-			"IdPackage": "US2019",
-			"Version": "",
-			"Build": "",
-			"PackageUrl": ""
+			"IdPackage": "UCP2019",
+			"Version": "4.0",
+			"Build": "20220420",
+			"PackageUrl": "https://github.com/patoaesteve/borrar/blob/main/UnlimitechCapacityPlanning.mtc?raw=true"
 		}, {
 			"IdPackage": "USS2019",
 			"Version": "",
