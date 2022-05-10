@@ -2,51 +2,61 @@
 	"Packages": [
 		{
 			"IdPackage": "UCP2019",
+			"Name": "Unlimitech Capacity Planning",
 			"Version": "3.0",
 			"Build": "20220420",
 			"PackageUrl": "https://github.com/patoaesteve/borrar/blob/main/UnlimitechCapacityPlanning.mtc?raw=true"
 		}, {
 			"IdPackage": "UCP2019",
+			"Name": "Unlimitech Capacity Planning",
 			"Version": "4.0",
 			"Build": "20220420",
 			"PackageUrl": "https://github.com/patoaesteve/borrar/blob/main/UnlimitechCapacityPlanning.mtc?raw=true"
 		}, {
 			"IdPackage": "USS2019",
+			"Name": "Unlimitech SQL Server",
 			"Version": "",
 			"Build": "",
 			"PackageUrl": ""
 		}, {
 			"IdPackage": "UHA2019",
+			"Name": "Unlimitech High Availabilit",
 			"Version": "",
 			"Build": "",
 			"PackageUrl": ""
 		}, {
 			"IdPackage": "UDM2019",
+			"Name": "Unlimitech Database Model & Code Review",
 			"Version": "",
 			"Build": "",
 			"PackageUrl": ""
 		},{
 			"IdPackage": "UDG2020",
+			"Name": "Unlimitech Diagnostics",
 			"Version": "",
 			"Build": "",
 			"PackageUrl": ""
 		},{
 			"IdPackage": "UPS2020",
+			"Name": "Unlimitech Problem Solver",
 			"Version": "",
 			"Build": "",
 			"PackageUrl": ""
 		},{
 			"IdPackage": "VAS2021",
+			"Name": "Unlimitech SQL Server Vulnerability Assessment",
 			"Version": "",
 			"Build": "",
 			"PackageUrl": ""
 		},{
 			"IdPackage": "UTE2021",
+			"Name": "Unlimitech Suite Analytical Package",
 			"Version": "",
 			"Build": "",
 			"PackageUrl": ""
 		},{
 			"IdPackage": "UCP2021",
+			"Name": "Unlimitech SQL Server Capacity Planning Analysis",
 			"Version": "",
 			"Build": "",
 			"PackageUrl": ""
